@@ -1,4 +1,4 @@
 # Calcium-Data-Analysis
-Calcium Signal Analysis with a Python
-Laboratory of Lisa Topolnik
+Calcium Signal Analysis with a Python</ br>
+Laboratory of Lisa Topolnik</ br>
 Laval University
