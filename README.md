@@ -4,4 +4,4 @@ Calcium Signal Analysis with Python.
 
 Laboratory of Lisa Topolnik.
 
-Laval University
+Laval University. Quebec City, Canada
