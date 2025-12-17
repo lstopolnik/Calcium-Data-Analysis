@@ -1,6 +1,7 @@
 # Calcium-Data-Analysis
 
-Calcium Signal and Speed Modulation Analysis with Python/Jupyter Notebook.
+Calcium signal and speed modulation analysis using Python/Jupyter notebooks.
+This repository is unfinished, and the code is subject to change.
 
 Laboratory of Lisa Topolnik.
 
